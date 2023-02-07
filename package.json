@@ -1,0 +1,16 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "https://www.tutorialsteacher.com/typescript/typescript-tuple\r https://www.tutorialsteacher.com/typescript/typescript-tuple\r https://www.typescriptlang.org/docs/handbook/2/basic-types.html\r https://www.typescriptlang.org/docs/handbook/2/everyday-types.html",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
